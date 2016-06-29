@@ -1,0 +1,40 @@
+[Tue Jun 28 2016 18:20:57 GMT+0000 (UTC)] INFO Connecting...
+[Tue Jun 28 2016 18:21:02 GMT+0000 (UTC)] INFO Logged in as nsx-pcert-hubot of VMware, but not yet connected
+[Tue Jun 28 2016 18:21:03 GMT+0000 (UTC)] INFO Slack client now connected
+[Tue Jun 28 2016 18:21:03 GMT+0000 (UTC)] INFO /home/ubuntu/slackbot/scripts/test.coffee is using deprecated documentation syntax
+[Tue Jun 28 2016 18:21:03 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Tue Jun 28 2016 18:59:06 GMT+0000 (UTC)] ERROR Error: connect ETIMEDOUT
+  at errnoException (net.js:901:11)
+  at Object.afterConnect [as oncomplete] (net.js:892:19)
+
+[Tue Jun 28 2016 19:00:31 GMT+0000 (UTC)] ERROR Error: connect ETIMEDOUT
+  at errnoException (net.js:901:11)
+  at Object.afterConnect [as oncomplete] (net.js:892:19)
+
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+start-stop-daemon: unrecognized option '--adapter'
+Try 'start-stop-daemon --help' for more information.
+[Tue Jun 28 2016 21:58:50 GMT+0000 (UTC)] INFO Connecting...
+[Tue Jun 28 2016 21:58:56 GMT+0000 (UTC)] INFO Logged in as nsx-pcert-hubot of VMware, but not yet connected
+[Tue Jun 28 2016 21:58:57 GMT+0000 (UTC)] INFO Slack client now connected
+[Tue Jun 28 2016 21:58:57 GMT+0000 (UTC)] INFO /home/ubuntu/slackbot/scripts/test.coffee is using deprecated documentation syntax
+[Tue Jun 28 2016 21:58:58 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Tue Jun 28 2016 22:01:04 GMT+0000 (UTC)] INFO Connecting...
+[Tue Jun 28 2016 22:01:09 GMT+0000 (UTC)] INFO Logged in as nsx-pcert-hubot of VMware, but not yet connected
+[Tue Jun 28 2016 22:01:09 GMT+0000 (UTC)] INFO Slack client now connected
+[Tue Jun 28 2016 22:01:10 GMT+0000 (UTC)] INFO /home/ubuntu/slackbot/scripts/test.coffee is using deprecated documentation syntax
+[Tue Jun 28 2016 22:01:10 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379
+[Tue Jun 28 2016 23:16:16 GMT+0000 (UTC)] INFO Connecting...
+[Tue Jun 28 2016 23:16:21 GMT+0000 (UTC)] INFO Logged in as r2 of VMware, but not yet connected
+[Tue Jun 28 2016 23:16:22 GMT+0000 (UTC)] INFO Slack client now connected
+[Tue Jun 28 2016 23:16:22 GMT+0000 (UTC)] INFO /home/ubuntu/slackbot/scripts/test.coffee is using deprecated documentation syntax
+[Tue Jun 28 2016 23:16:22 GMT+0000 (UTC)] INFO hubot-redis-brain: Using default redis on localhost:6379

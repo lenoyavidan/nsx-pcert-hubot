@@ -1,6 +1,6 @@
 #{ spawn } = require 'child_process'
 module.exports = (robot) ->
-   robot.hear /fun/i, (res) ->
+   robot.hear /\bfun\b/i, (res) ->
       res.send "FUN!"
 
    robot.respond /bored/i, (res) ->
